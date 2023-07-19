@@ -1,0 +1,12 @@
+.bg{
+    background-image:url(https://img.freepik.com/premium-photo/top-view-blue-calculator-notepad-color-background_260672-4055.jpg);
+}
+#center{
+    width:400px;
+    height:700px;
+    margin:auto;
+    position:relative;
+    border: 3px solid black;
+    justify-content: center;
+    background-color: antiquewhite;
+}
